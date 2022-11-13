@@ -8,8 +8,12 @@ You place the alpha channel of images in folder in_alpha0 and in_alpha1, the ori
 
 arguments:
 
-resolution: -1, for the same resolution as input
-steps: number of backprop steps
-contour_lambda: how much weight is given to the contours vs the original images, with 1 it doens't search for original images
-grid_smoothing: how much smoothing in the grid to apply
+resolution: -1, for the same resolution as input.
+
+steps: number of backprop steps.
+
+contour_lambda: how much weight is given to the contours vs the original images, with 1 it doens't search for original images.
+
+grid_smoothing: how much smoothing in the grid to apply.
+
 lr: learning rate.
