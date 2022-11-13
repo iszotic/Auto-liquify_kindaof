@@ -4,7 +4,7 @@ This is a naive try at making an autoliquify for images that have a silluette af
 
 Needs pytorch, Pillow and tqdm and a GPU with at least 8GB of vram
 
-You place the alpha channel of images in folder in_alpha0 and in_alpha1, the originals from blender and the ones after img2img, you can put the original images too, but it doesn't look nice
+You place the alpha channel of images in folder in_alpha0 and in_alpha1, the originals from blender and the ones after img2img respectively, you can put the original images too, but it makes things even worse.
 
 arguments:
 
